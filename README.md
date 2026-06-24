@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst and aspiring Data Scientist with 2+ years of software engineering experience, skilled in Python, SQL,<br>Power BI, and Excel. Proficient in exploratory data analysis (EDA), data visualization, and building interactive<br>dashboards that drive business decisions. Passionate about transforming complex datasets into actionable insights<br>through scalable, efficient analytical solutions. 
+Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, and DAX. Skilled in data cleaning, ETL, KPI reporting, business intelligence, and data visualization. Built automated dashboards and reporting solutions that reduced report load time by 30%, improving operational efficiency and supporting faster, data-driven business decision-making. Proficient in transforming raw data into actionable insights to drive business growth and process improvement.
 
 
 ## 🌐 Socials:
