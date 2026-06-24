@@ -14,6 +14,5 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 ![](https://streak-stats.demolab.com/?user=shakeer456&theme=dark&hide_border=false)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shakeer456&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
