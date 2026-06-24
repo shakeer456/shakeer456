@@ -13,9 +13,6 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=shakeer456&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakeer456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=shakeer456&icon=0&color=0)](https://visitcount.itsvg.in)
 
