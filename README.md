@@ -41,6 +41,16 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=shakeer456&theme=dark&hide_border=false)
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" />
+
+### 📊 *"Turning complex data into clear insights that empower smarter business decisions."*
+
+✨ **Learn • Analyze • Visualize • Inspire**
+
+</div>
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
