@@ -30,7 +30,7 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeer-shaik-508958235/)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white))](https://shakeer456.github.io/Shakeer_Shaik_Portfolio/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white))](https://shakeer456.github.io/Shakeer_Shaik_Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/s_h_a_k_e_e_r_?igshid=MzNlNGNkZWQ4Mg==) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/ShaikSh99018312?t=cOc6ZUDutptDeOin0ZSuew&s=09) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakeershaik489@gmail.com)
