@@ -1,3 +1,33 @@
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=220&section=header&text=Shakeer%20Shaik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&descSize=22" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=950&lines=Transforming+Raw+Data+into+Actionable+Insights.;Building+Interactive+Power+BI+Dashboards.;SQL+%7C+Python+%7C+Excel+%7C+Power+BI.;Power+Query+%7C+DAX+%7C+Data+Modeling.;Data+Cleaning+%7C+EDA+%7C+Business+Intelligence.;Open+to+Data+Analyst+%26+Power+BI+Developer+Opportunities."
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ShakeerShaik&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analyst-00C9FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+</div>
+
+
 # 💫 About Me:
 Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, and DAX. Skilled in data cleaning, ETL, KPI reporting, business intelligence, and data visualization. Built automated dashboards and reporting solutions that reduced report load time by 30%, improving operational efficiency and supporting faster, data-driven business decision-making. Proficient in transforming raw data into actionable insights to drive business growth and process improvement.
 
