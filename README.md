@@ -28,6 +28,13 @@
 Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, and DAX. Skilled in data cleaning, ETL, KPI reporting, business intelligence, and data visualization. Built automated dashboards and reporting solutions that reduced report load time by 30%, improving operational efficiency and supporting faster, data-driven business decision-making. Proficient in transforming raw data into actionable insights to drive business growth and process improvement.
 
 
+## 🛠️ Skills & Tools :-
+- **SQL**      : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views
+- **Excel**    : Pivot Tables, Power Query, Data Cleaning, Power Pivot
+- **Power BI** : Data Modeling, DAX, Build Business Reports
+- **Python**   : Pandas, Numpy, Matplotlib
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeer-shaik-508958235/)
