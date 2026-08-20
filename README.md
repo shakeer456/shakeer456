@@ -53,6 +53,8 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 
 # <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBQSM8GkyE3awzI5_Rz60KV1aFFgiXOl9o_qaKCASmw&s=10" width="28" height="28"> SQL Projects :-
 
+- **Amazon Sales Analysis** : [🔗](https://github.com/shakeer456/Amazon_data_analysis_SQL)
+
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=shakeer456&theme=dark&hide_border=false&cache_seconds=3600)
 <div align="center">
