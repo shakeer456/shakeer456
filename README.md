@@ -51,7 +51,7 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 
 - **AtliQ Motors EV Sales Strategy in India** : [🔗](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis)
 
-# <img src="<"https://github.com/user-attachments/assets/bde2e180-0e8e-44f3-bac0-7ab993d93c51" />
+# <img src="<"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBQSM8GkyE3awzI5_Rz60KV1aFFgiXOl9o_qaKCASmw&s=10" />
 " width="28" height="28"> SQL Projects :-
 
 # 📊 GitHub Stats:
