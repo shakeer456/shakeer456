@@ -48,6 +48,7 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 # 📊 Power BI Projects :-
 
 Student Social Media Addiction Analysis : [🔗](https://github.com/shakeer456/STUDENT-SOCIAL-MEDIA-ADDICTION-ANALYSIS)
+AtliQ Motors EV Sales Strategy in India :  [🔗](https://github.com/shakeer456/AtliQ-Motors-EV-Sales-Analysis)
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=shakeer456&theme=dark&hide_border=false&cache_seconds=3600)
