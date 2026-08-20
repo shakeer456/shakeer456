@@ -57,6 +57,19 @@ Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, MySQL, 
 
 - **Amazon Sales Analysis** : [🔗](https://github.com/shakeer456/Amazon_data_analysis_SQL)
 
+- **Zomato Sales Analysis** : [🔗](https://github.com/shakeer456/zomato_sales_analysis_SQL)
+
+# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2O5xZS0WlxU4UdLKo3Hsduh0t4DmQQAeoO_RDI8XXTw&s=10" width="28" height="28"> Python Projects :-
+
+- **Customer Retention Analytics** : [🔗](https://github.com/shakeer456/European_Bank_Retention_Analytics)
+
+- **Profitability Intelligence Analysis** : [🔗](https://github.com/shakeer456/Nassau_Candy_Profitability_Analysis)
+
+- **Bank Customer Churn Analysis** : [🔗](https://github.com/shakeer456/Bank_Customer_Churn_Analysis)
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=shakeer456&theme=dark&hide_border=false&cache_seconds=3600)
 <div align="center">
